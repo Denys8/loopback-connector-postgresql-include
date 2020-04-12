@@ -12,6 +12,8 @@ lib-cov
 *.pid
 *.gz
 
+yarn.lock
+
 pids
 logs
 results

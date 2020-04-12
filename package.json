@@ -1,7 +1,7 @@
 {
-  "name": "loopback-connector-postgresql",
-  "version": "3.9.1",
-  "description": "Loopback PostgreSQL Connector",
+  "name": "loopback-connector-postgresql-join",
+  "version": "1.0.0",
+  "description": "Loopback PostgreSQL Connector with JOINs",
   "engines": {
     "node": ">=8"
   },
@@ -10,7 +10,8 @@
     "LoopBack",
     "PostgreSQL",
     "DataSource",
-    "Connector"
+    "Connector",
+    "SQL"
   ],
   "main": "index.js",
   "scripts": {
@@ -51,8 +52,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-connector-postgresql.git"
+    "url": "https://github.com/Denys8/loopback-connector-postgresql-include"
   },
   "license": "Artistic-2.0",
-  "author": "IBM Corp."
+  "author": "Denys Yevtushenko"
 }
