@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-postgresql-join",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Loopback PostgreSQL Connector with JOINs",
   "engines": {
     "node": ">=8"
